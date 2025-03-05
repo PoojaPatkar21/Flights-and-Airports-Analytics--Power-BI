@@ -8,26 +8,28 @@ This  project contains a Power BI dashboard for analyzing flights and airport da
 3. Conditional column – Conditional statement for delay identification for advanced data insights.
 4. Data-Driven Decision Making – Identify flight patterns, airport performance, and delays.
 
+
 📊 Dataset Overview
 
 The project utilizes two datasets:
 
 1️⃣ Flights Data 
 Contains flight-related information with the following columns:
-DayOfMonth – Day of the month when the flight took place
-DayOfWeek – Numeric representation of the weekday (1 = Monday, 7 = Sunday)
-•	OriginAirportID – Airport ID of the departure location
-•	DestAirportID – Airport ID of the arrival location
-•	Departure Delay – Delay in departure (in minutes)
-•	Arrival Delay – Delay in arrival (in minutes)
-•	Carrier – Airline carrier operating the flight
+1.	DayOfMonth – Day of the month when the flight took place
+2.	DayOfWeek – Numeric representation of the weekday (1 = Monday, 7 = Sunday)
+3.	OriginAirportID – Airport ID of the departure location
+4.	DestAirportID – Airport ID of the arrival location
+5.	Departure Delay – Delay in departure (in minutes)
+6.	Arrival Delay – Delay in arrival (in minutes)
+7.	Carrier – Airline carrier operating the flight
 
 2️⃣ Airports Data 
 Contains details of airports, including:
-•	Airport ID – Unique identifier for each airport
-•	Name – Airport name
-•	State – State where the airport is located
-•	City – City where the airport is located
+1.	Airport ID – Unique identifier for each airport
+2.	Name – Airport name
+3.	State – State where the airport is located
+4.	City – City where the airport is located
+
 
 📊 Dashboard Overview
 The Power BI dashboard consists of:
