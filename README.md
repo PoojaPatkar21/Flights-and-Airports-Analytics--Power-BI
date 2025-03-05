@@ -31,21 +31,15 @@ Contains details of airports, including:
 
 📊 Dashboard Overview
 The Power BI dashboard consists of:
-•	Flight Performance Metrics ✈️ – Total flights, total airports, on-time flights , delays, and delay-covered flights,Flights by day of month, flights by day of week.
-•	Airport Analysis 🏢 – Airport performance.
-•	Time-Based Trends 📅 – Early, on-time and late flight patterns.
-•	Delay Analysis ⏳ – Departure vs. arrival delays across different airports.
+1. Flight Performance Metrics ✈️ – Total flights, total airports, on-time flights , delays, and delay-covered flights,Flights by day of month, flights by day of week.
+2. Airport Analysis 🏢 – Airport performance.
+3. Time-Based Trends 📅 – Early, on-time and late flight patterns.
+4. Delay Analysis ⏳ – Departure vs. arrival delays across different airports.
 
 🛠️ Tech Stack
 •	Power BI for data visualization
 •	DAX (for measures
 •	Excel/CSV Data Sources
 
-🚀 Getting Started
-1.	Clone the repository: 
-2.	git clone https://github.com/your-repo/flights-airports-dashboard.git
-3.	Open the .pbix file in Power BI Desktop.
-4.	Load the datasets (flights.csv & airports.csv).
-5.	Explore and customize as needed!
 
 
