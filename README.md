@@ -3,10 +3,10 @@
 This  project contains a Power BI dashboard for analyzing flights and airport data, utilizing KPI cards, various visualizations to extract key insights.
 
 📌 Features
-✅ KPI Cards – Track essential flight statistics such as total flights, delays, and cancellations.
-✅ Interactive Visuals – Various charts for trend analysis, performance monitoring, and comparisons.
-✅ Conditional column – Conditional statement for delay identification for advanced data insights.
-✅ Data-Driven Decision Making – Identify flight patterns, airport performance, and delays.
+1. KPI Cards – Track essential flight statistics such as total flights, delays, and cancellations.
+2. Interactive Visuals – Various charts for trend analysis, performance monitoring, and comparisons.
+3. Conditional column – Conditional statement for delay identification for advanced data insights.
+4. Data-Driven Decision Making – Identify flight patterns, airport performance, and delays.
 
 📊 Dataset Overview
 
@@ -14,8 +14,8 @@ The project utilizes two datasets:
 
 1️⃣ Flights Data 
 Contains flight-related information with the following columns:
-•	DayOfMonth – Day of the month when the flight took place
-•	DayOfWeek – Numeric representation of the weekday (1 = Monday, 7 = Sunday)
+DayOfMonth – Day of the month when the flight took place
+DayOfWeek – Numeric representation of the weekday (1 = Monday, 7 = Sunday)
 •	OriginAirportID – Airport ID of the departure location
 •	DestAirportID – Airport ID of the arrival location
 •	Departure Delay – Delay in departure (in minutes)
@@ -37,9 +37,9 @@ The Power BI dashboard consists of:
 4. Delay Analysis ⏳ – Departure vs. arrival delays across different airports.
 
 🛠️ Tech Stack
-•	Power BI for data visualization
-•	DAX (for measures
-•	Excel/CSV Data Sources
+1. Power BI for data visualization
+2.	DAX (for measures)
+3.	Excel/CSV Data Sources
 
 
 
