@@ -45,7 +45,11 @@ The Power BI dashboard consists of:
 
 ## Dashboard
 Page 1
+"D:\POOJA\WORK 2025\Flights and Airports\Page 1.png"
+
 Page 2 
+"D:\POOJA\WORK 2025\Flights and Airports\Page 2.png"
+
 
 
 
