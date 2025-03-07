@@ -8,6 +8,19 @@ This  project contains a Power BI dashboard for analyzing flights and airport da
 3. Conditional column – Conditional statement for delay identification for advanced data insights.
 4. Data-Driven Decision Making – Identify flight patterns, airport performance, and delays.
 
+## Analyis using SQL
+
+Steps to Import Data from Excel to SQL Server Management Studio (SSMS):
+1.	Open SQL Server Management Studio (SSMS) and connect to your database.
+2.	Create a new database named as “FlightDB” 
+3.	Navigate to Tasks > Import Data in Object Explorer.
+4.	Select Microsoft Excel as the data source and browse for your Excel file. Click the 'Browse' button to select the path to the Excel file you want to import. Choose the correct Excel version and click Next. Tick the 'First Row has headers' checkbox if your Excel file contains headers. Click Next.
+5.	On the 'Choose a Destination' screen, select destination database: Select Server name as "Microsoft Excel OLE DB Provider for SQL Server".
+6.	On the 'Specify Table Copy or Query' window: For simplicity just select 'Copy data from one or more tables or views', click Next.
+7.	Complete the import process and verify the data using 
+USE FlightDB;
+SELECT * FROM dbo.flights
+
 
 ## Dataset:
 Link: https://www.kaggle.com/datasets/tylerx/flights-and-airports-data
@@ -35,8 +48,8 @@ Contains details of airports, including:
 3.	State – State where the airport is located
 4.	City – City where the airport is located
 
-
-## Dashboard Overview
+## Analysis using Power BI 
+## Dashboard Overview 
 The Power BI dashboard consists of:
 1. Flight Performance Metrics ✈️ – Total flights, total airports, on-time flights , delays, and delay-covered flights,Flights by day of month, flights by day of week.
 2. Airport Analysis 🏢 – Airport performance.
