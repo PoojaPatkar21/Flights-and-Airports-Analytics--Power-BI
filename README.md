@@ -1,6 +1,13 @@
 # Flights and Airports Analytics using Power-BI and SQL 
 This  project contains a Power BI dashboard for analyzing flights and airport data, utilizing KPI cards, various visualizations to extract key insights. Data Analysis is also done in SQL> 
 
+## Key Activities:
+1.	Comprehending the dataset  
+2.	Performed data cleaning to ensure accuracy and consistency.
+3.	Generated business questions to guide data-driven decision-making.
+4.	Conducted data analysis SQL to uncover insights.
+5.	Developed interactive dashboards in Power BI to visualize key findings effectively.
+
 📌 Features
 1. KPI Cards – Track essential flight statistics such as total flights, delays, and cancellations.
 2. Interactive Visuals – Various charts for trend analysis, performance monitoring, and comparisons.
@@ -48,6 +55,7 @@ Contains details of airports, including:
 4.	City – City where the airport is located
 
 ## Analysis using Power BI 
+
 Dashboard Overview 
 1. Flight Performance Metrics ✈️ – Total flights, total airports, on-time flights , delays, and delay-covered flights,Flights by day of month, flights by day of week.
 2. Airport Analysis 🏢 – Airport performance.
