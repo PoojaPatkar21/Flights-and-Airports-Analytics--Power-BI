@@ -9,9 +9,10 @@ This  project contains a Power BI dashboard for analyzing flights and airport da
 4. Data-Driven Decision Making – Identify flight patterns, airport performance, and delays.
 
 
-Dataset:
-Download the files from the following link:
-https://www.kaggle.com/datasets/tylerx/flights-and-airports-data
+## Dataset:
+Link: https://www.kaggle.com/datasets/tylerx/flights-and-airports-data
+
+Two files are used in this project namely airports.csv and flights.csv.
 
 📊 Dataset Overview
 
