@@ -2,7 +2,7 @@
 This  project contains a Power BI dashboard for analyzing flights and airport data, utilizing KPI cards, various visualizations to extract key insights. Data Analysis is also done in SQL> 
 
 ## Key Activities:
-1.	Comprehending the dataset  
+1.	Comprehending the dataset.   
 2.	Performed data cleaning to ensure accuracy and consistency.
 3.	Generated business questions to guide data-driven decision-making.
 4.	Conducted data analysis using Excel and SQL to uncover insights.
@@ -66,6 +66,7 @@ Tech Stack
 1. Power BI for data visualization
 2.	DAX (for measures)
 3.	Excel/CSV Data Sources
+4.	Data Analysis using SQL 
 
 ## Dashboard
 Page 1
@@ -73,9 +74,3 @@ Page 1
 
 Page 2 
 ![image](https://github.com/user-attachments/assets/7ca0a4f3-85ee-477c-8162-5bc54d745de0)
-
-
-
-
-
-
