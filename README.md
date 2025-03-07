@@ -49,14 +49,13 @@ Contains details of airports, including:
 4.	City – City where the airport is located
 
 ## Analysis using Power BI 
-## Dashboard Overview 
-The Power BI dashboard consists of:
+Dashboard Overview 
 1. Flight Performance Metrics ✈️ – Total flights, total airports, on-time flights , delays, and delay-covered flights,Flights by day of month, flights by day of week.
 2. Airport Analysis 🏢 – Airport performance.
 3. Time-Based Trends 📅 – Early, on-time and late flight patterns.
 4. Delay Analysis ⏳ – Departure vs. arrival delays across different airports.
 
-## Tech Stack
+Tech Stack
 1. Power BI for data visualization
 2.	DAX (for measures)
 3.	Excel/CSV Data Sources
