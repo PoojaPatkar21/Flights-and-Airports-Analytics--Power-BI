@@ -15,6 +15,7 @@ This  project contains a Power BI dashboard for analyzing flights and airport da
 4. Data-Driven Decision Making – Identify flight patterns, airport performance, and delays.
 
 ## Analyis using SQL
+⭐ Convert the csv file to excel format 
 
 Steps to Import Data from Excel to SQL Server Management Studio (SSMS):
 1.	Open SQL Server Management Studio (SSMS) and connect to your database.
