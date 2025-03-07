@@ -5,7 +5,7 @@ This  project contains a Power BI dashboard for analyzing flights and airport da
 1.	Comprehending the dataset  
 2.	Performed data cleaning to ensure accuracy and consistency.
 3.	Generated business questions to guide data-driven decision-making.
-4.	Conducted data analysis SQL to uncover insights.
+4.	Conducted data analysis using Excel and SQL to uncover insights.
 5.	Developed interactive dashboards in Power BI to visualize key findings effectively.
 
 📌 Features
