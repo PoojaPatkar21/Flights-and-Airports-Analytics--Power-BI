@@ -43,5 +43,10 @@ The Power BI dashboard consists of:
 2.	DAX (for measures)
 3.	Excel/CSV Data Sources
 
+## Dashboard
+Page 1
+Page 2 
+
+
 
 
