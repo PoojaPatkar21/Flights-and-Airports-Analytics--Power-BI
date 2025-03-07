@@ -8,7 +8,7 @@ This  project contains a Power BI dashboard for analyzing flights and airport da
 4.	Conducted data analysis using Excel and SQL to uncover insights.
 5.	Developed interactive dashboards in Power BI to visualize key findings effectively.
 
-📌 Features
+## Features
 1. KPI Cards – Track essential flight statistics such as total flights, delays, and cancellations.
 2. Interactive Visuals – Various charts for trend analysis, performance monitoring, and comparisons.
 3. Conditional column – Conditional statement for delay identification for advanced data insights.
@@ -34,11 +34,11 @@ Link: https://www.kaggle.com/datasets/tylerx/flights-and-airports-data
 
 Two files are used in this project namely airports.csv and flights.csv.
 
-📊 Dataset Overview
+⭐ Dataset Overview
 
 The project utilizes two datasets:
 
-1️⃣ Flights Data 
+⭐ Flights Data 
 Contains flight-related information with the following columns:
 1.	DayOfMonth – Day of the month when the flight took place
 2.	DayOfWeek – Numeric representation of the weekday (1 = Monday, 7 = Sunday)
@@ -48,7 +48,7 @@ Contains flight-related information with the following columns:
 6.	Arrival Delay – Delay in arrival (in minutes)
 7.	Carrier – Airline carrier operating the flight
 
-2️⃣ Airports Data 
+⭐ Airports Data 
 Contains details of airports, including:
 1.	Airport ID – Unique identifier for each airport
 2.	Name – Airport name
@@ -57,13 +57,13 @@ Contains details of airports, including:
 
 ## Analysis using Power BI 
 
-Dashboard Overview 
+⭐ Dashboard Overview 
 1. Flight Performance Metrics ✈️ – Total flights, total airports, on-time flights , delays, and delay-covered flights,Flights by day of month, flights by day of week.
 2. Airport Analysis 🏢 – Airport performance.
 3. Time-Based Trends 📅 – Early, on-time and late flight patterns.
 4. Delay Analysis ⏳ – Departure vs. arrival delays across different airports.
 
-Tech Stack
+## Tech Stack
 1. Power BI for data visualization
 2.	DAX (for measures)
 3.	Excel/CSV Data Sources
